@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Page%20Load%20Reduction-86%25-58a6ff?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Latency%20Reduction-25%25-f0883e?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Lighthouse%20Score-90%2B-3fb950?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deploy%20Time-Under%203%20min-a371f7?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
