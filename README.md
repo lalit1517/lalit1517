@@ -72,23 +72,10 @@
 ### 🔖 [Marksmith](https://github.com/lalit1517)
 > LLM-powered Next.js documentation engine that grounds prompts in live repository code, then runs a **5-stage pipeline** to surgically refine READMEs across depth, accuracy, and tone. Integrated a **GitHub App** for direct repo access and one-click PR creation — compressing the full docs-to-merge workflow into a single interface.
 
-<p align="center">
-  <a href="https://github.com/lalit1517/Marksmith">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalit1517&repo=Marksmith&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=8b949e" alt="Marksmith" />
-  </a>
-</p>
-
 ### 🐦 [PostPilot](https://github.com/lalit1517)
 > Autonomous X content agent built with **LangGraph + Gemini** that evolves its writing persona from real engagement signals on a **72-hour cycle**. Features a Telegram-based human-in-the-loop review interface with n-gram diversity filtering, outcome-weighted feedback, and a retry queue for tweet scheduling.
 
-<p align="center">
-  <a href="https://github.com/lalit1517/PostPilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lalit1517&repo=PostPilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=8b949e" alt="PostPilot" />
-  </a>
-</p>
-
 ---
-
 
 ## 🔥 Contribution streak
 
@@ -104,27 +91,19 @@
 
 ---
 
-## 🏆 GitHub trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lalit1517&theme=darkhub&no-frame=true&column=6&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 🤝 Connect with me
 
 <p align="left">
   <a href="mailto:lalitchauhan1517@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/lalit1517">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/lalit_notFound">
     <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://bylalit.work">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
