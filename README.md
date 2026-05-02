@@ -68,16 +68,11 @@
 
 ## 🤖 Featured projects
 
-### 🔖 [Marksmith](https://github.com/lalit1517)
+### 🔖 [Marksmith](https://github.com/lalit1517/Marksmith)
 > LLM-powered Next.js documentation engine that grounds prompts in live repository code, then runs a **5-stage pipeline** to surgically refine READMEs across depth, accuracy, and tone. Integrated a **GitHub App** for direct repo access and one-click PR creation — compressing the full docs-to-merge workflow into a single interface.
 
-### 🐦 [PostPilot](https://github.com/lalit1517)
+### 🐦 [PostPilot](https://github.com/lalit1517/PostPilot)
 > Autonomous X content agent built with **LangGraph + Gemini** that evolves its writing persona from real engagement signals on a **72-hour cycle**. Features a Telegram-based human-in-the-loop review interface with n-gram diversity filtering, outcome-weighted feedback, and a retry queue for tweet scheduling.
-
-<p align="center">
-  <a href="https://github.com/lalit1517/PostPilot">
-<img src="https://github-readme-stats.zohan.tech/api/pin/?username=lalit1517&repo=PostPilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=8b949e" />  </a>
-</p>
 
 ---
 
