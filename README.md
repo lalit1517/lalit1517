@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=130&section=header&text=Hi%20👋%20I'm%20Lalit%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=70&descColor=8b949e)](https://github.com/lalit1517)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=130&section=header&text=Hi%20👋%20I'm%20Lalit%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20Frontend%20Focused&descAlignY=70&descColor=8b949e)](https://github.com/lalit1517)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -73,6 +73,11 @@
 
 ### 🐦 [PostPilot](https://github.com/lalit1517)
 > Autonomous X content agent built with **LangGraph + Gemini** that evolves its writing persona from real engagement signals on a **72-hour cycle**. Features a Telegram-based human-in-the-loop review interface with n-gram diversity filtering, outcome-weighted feedback, and a retry queue for tweet scheduling.
+
+<p align="center">
+  <a href="https://github.com/lalit1517/PostPilot">
+<img src="https://github-readme-stats.zohan.tech/api/pin/?username=lalit1517&repo=PostPilot&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=8b949e" />  </a>
+</p>
 
 ---
 
