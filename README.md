@@ -1,7 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=130&section=header&text=Hi%20👋%20I'm%20Lalit%20Kumar&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20|%20Frontend%20Focused&descAlignY=70&descColor=8b949e)](https://github.com/lalit1517)
 
-![Nommit](https://nommit.vercel.app/api/svg/cmozp21xt0000mj2lr47l6nzw)
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&center=true&width=600&lines=Full+Stack+Engineer+%7C+2.5+yrs+Production+XP;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Building+AI-native+systems+with+LangGraph+%26+LLMs;Autonomous+agents+%7C+RAG+%7C+LangChain+%7C+Gemini" alt="Typing SVG" />
@@ -9,7 +7,7 @@
 </p>
 
 <p align="center">
-  ![Nommit](https://nommit.vercel.app/api/svg/cmozp21xt0000mj2lr47l6nzw)
+  <img src="https://nommit.vercel.app/api/svg/cmozp21xt0000mj2lr47l6nzw" alt="Nommit" />
 </p>
 
 ---
