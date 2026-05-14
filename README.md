@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  ![Nommit](https://nommit.vercel.app/api/svg/cmozp21xt0000mj2lr47l6nzw)
+</p>
+
 ---
 
 ## 🙋‍♂️ About me
