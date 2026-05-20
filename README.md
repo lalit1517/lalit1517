@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://nommit.vercel.app/api/svg/cmozp21xt0000mj2lr47l6nzw" alt="Nommit" />
-</p>
-
 ---
 
 ## 🙋‍♂️ About me
